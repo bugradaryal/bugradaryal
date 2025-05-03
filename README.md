@@ -20,7 +20,6 @@ Software Engineer / Full-Stack Developer
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-![WPF](https://img.shields.io/badge/-WPF-5C2D91?logo=windows&logoColor=white&style=flat)
 
 #### 🖥️ Backend 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
